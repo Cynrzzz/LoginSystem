@@ -1,1 +1,1 @@
-# LoginSystem
+- This program is a simple way of showing how users can take user input & output, and use that as an advantage to potentially creating auth systems. (Login User Credentials Located in "config.json").
